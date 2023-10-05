@@ -1,8 +1,6 @@
 #include <iostream>
+#include <stegangraphy.h>
 
-public void std::strmglb
-
-int main() {
-    std::cout << "Hello, World!" << std::endl;
+int n()
     return 0;
 }

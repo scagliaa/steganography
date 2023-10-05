@@ -3,4 +3,4 @@ project(steganography)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(steganography src/main.cpp src/steganography/steganography.h src/steganography/image/s_image.h)
+add_executable(steganography src/main.cpp src/steganography/steganography.h src/steganography/image/s_image.h src/steganography/image/s_image.cpp src/steganography/image/s_image.cpp)
